@@ -19,9 +19,9 @@ Um projeto desenvolvido para realizar sorteios de amigos secretos de forma prát
 
 Veja abaixo as capturas de tela do processo:
 
-![Tela-01](amigo-secreto/tela/tela-01.PNG)
-![Tela-02](amigo-secreto/tela/tela-02.PNG)
-![Tela-03](amigo-secreto/tela/tela-03.PNG)
+![Tela-01](./tela/tela-01.PNG)
+![Tela-02](./tela/tela-02.PNG)
+![Tela-03](./tela/tela-03.PNG)
 
 ### Realizando o Sorteio
 
@@ -31,9 +31,9 @@ Veja abaixo as capturas de tela do processo:
 
 As imagens abaixo mostram as etapas do sorteio:
 
-![Tela-04](amigo-secreto/tela/tela-04.PNG)
-![Tela-05](amigo-secreto/tela/tela-05.PNG)
-![Tela-06](amigo-secreto/tela/tela-06.PNG)
+![Tela-04](./tela/tela-04.PNG)
+![Tela-05](./tela/tela-05.PNG)
+![Tela-06](./tela/tela-06.PNG)
 
 ## Tecnologias Utilizadas
 
