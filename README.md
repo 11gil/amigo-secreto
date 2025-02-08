@@ -19,21 +19,21 @@ Um projeto desenvolvido para realizar sorteios de amigos secretos de forma prát
 
 Veja abaixo as capturas de tela do processo:
 
-![Tela-01](./tela-01.PNG)
-![Tela-02](./tela-02.PNG)
-![Tela-03](./tela-03.PNG)
+![Tela-01](amigo-secreto/tela/tela-01.PNG)
+![Tela-02](amigo-secreto/tela/tela-02.PNG)
+![Tela-03](amigo-secreto/tela/tela-03.PNG)
 
 ### Realizando o Sorteio
 
-1. Após adicionar todos os participantes, clique no botão "Realizar Sorteio".
+1. Após adicionar todos as participantes, clique no botão "Realizar Sorteio".
 2. O sistema distribuirá os amigos secretos automaticamente.
 3. Os resultados serão exibidos na tela.
 
 As imagens abaixo mostram as etapas do sorteio:
 
-![Tela-04](./tela-04.PNG)
-![Tela-05](./tela-05.PNG)
-![Tela-06](./tela-06.PNG)
+![Tela-04](amigo-secreto/tela/tela-04.PNG)
+![Tela-05](amigo-secreto/tela/tela-05.PNG)
+![Tela-06](amigo-secreto/tela/tela-06.PNG)
 
 ## Tecnologias Utilizadas
 
