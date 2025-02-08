@@ -16,7 +16,7 @@ Este projeto é um sistema simples para sortear amigos secretos. Ele permite adi
 ## 🚀 Como Executar o Projeto
 ### 1. Clonar o repositório
 ```sh
- git clone https://github.com/seu-usuario/amigo-secreto.git
+ git clone https://github.com/git@github.com:11gil/amigo-secreto.git
 ```
 
 ### 2. Abrir o arquivo HTML
