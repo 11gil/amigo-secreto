@@ -1,46 +1,50 @@
-# Amigo Secreto 🎁
+# Amigo Secreto 🎉
 
-Este projeto é um sistema simples para sortear amigos secretos. Ele permite adicionar participantes e realizar o sorteio de forma automática, garantindo que ninguém tire a si mesmo.
+Um projeto desenvolvido para realizar sorteios de amigos secretos de forma prática e interativa.
 
-## 📌 Funcionalidades
-- Adicionar participantes ao sorteio.
-- Garantir que ninguém tire a si mesmo.
-- Realizar o sorteio e exibir os pares formados.
-- Interface simples e intuitiva.
+## Funcionalidades
 
-## 🛠️ Tecnologias Utilizadas
-- JavaScript
-- HTML
-- CSS
+- Adicionar participantes.
+- Realizar o sorteio automaticamente.
+- Exibir os resultados de forma clara e organizada.
 
-## 🚀 Como Executar o Projeto
-### 1. Clonar o repositório
-```sh
- git clone https://github.com/git@github.com:11gil/amigo-secreto.git
-```
+## Instruções de Uso
 
-### 2. Abrir o arquivo HTML
-Basta abrir o arquivo `index.html` no navegador de sua escolha.
-
-## 📸 Capturas de Tela
 ### Adicionando Participantes
-![Adicionar Participantes](./assets/adicionar_participantes.png)
+
+1. Acesse a tela inicial do sistema.
+2. Clique no botão "Adicionar Participante".
+3. Insira o nome do participante no campo indicado.
+4. Confirme a adição clicando no botão correspondente.
+
+Veja abaixo as capturas de tela do processo:
+
+![Tela-01](./tela-01.PNG)
+![Tela-02](./tela-02.PNG)
+![Tela-03](./tela-03.PNG)
 
 ### Realizando o Sorteio
-![Sorteio Realizado](./assets/sorteio_realizado.png)
 
-## 📹 Demonstração em Vídeo
-[Veja o funcionamento do projeto neste vídeo](https://youtu.be/link-do-video)
+1. Após adicionar todos os participantes, clique no botão "Realizar Sorteio".
+2. O sistema distribuirá os amigos secretos automaticamente.
+3. Os resultados serão exibidos na tela.
 
-## 🛠 Possíveis Problemas e Soluções
-1. **O sorteio não está funcionando corretamente.**
-   - Certifique-se de que há pelo menos três participantes cadastrados.
-2. **Erro ao adicionar nomes repetidos.**
-   - O sistema impede a adição de nomes duplicados para garantir um sorteio justo.
+As imagens abaixo mostram as etapas do sorteio:
 
-## 📄 Licença
-Este projeto está sob a licença MIT.
+![Tela-04](./tela-04.PNG)
+![Tela-05](./tela-05.PNG)
+![Tela-06](./tela-06.PNG)
 
----
-Que tal contribuir com melhorias? Faça um fork e envie seu pull request! 😊
+## Tecnologias Utilizadas
 
+- HTML5
+- CSS3
+- JavaScript ES6
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar o projeto.
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT.
