@@ -1,6 +1,5 @@
 //O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
 // Lista para armazenar os nomes inseridos pelo usuário
-// Lista para armazenar os nomes inseridos pelo usuário
 let amigos = []; // Lista de amigos para o sorteio
 
 // Função para adicionar um nome à lista
@@ -11,6 +10,12 @@ function adicionarAmigo() {
     // Verifica se o campo está vazio
     if (nome === "") {
         alert("Por favor, digite um nome válido."); // Exibe um alerta se o nome for inválido
+        return;
+    }
+
+    // Verifica se o nome já está na lista
+    if (amigos.includes(nome)) {
+        alert("Este nome já foi adicionado!"); // Exibe um alerta para nomes repetidos
         return;
     }
 
